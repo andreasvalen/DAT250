@@ -26,7 +26,7 @@ owned.setOwner(this)
 This feels like a workaround, and there is probably a spelling/syntax error somewhere that trips me up, but there is only created one join table in the db which is correct.
 
 Screenshot of the many to many join table in the database:
-![Alt text](resources/imgs/experiment-2-db-joinTableFocus.png?raw=true "Title")
+![db screenshot](https://github.com/andreasvalen/DAT250/blob/main/resources/imgs/experiment-2-db-joinTableFocus.PNG?raw=true)
 
 - Unit test failed on bi-directional check
 
