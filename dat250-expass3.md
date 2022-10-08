@@ -5,6 +5,7 @@
 - Installation went smooth
 
 Verified binary:
+
 ![db screenshot](https://github.com/andreasvalen/DAT250/blob/main/resources/imgs/BinaryVerification.PNG?raw=true)
 
 ## Experiment 1
@@ -25,7 +26,7 @@ Delete:
 
 ![db screenshot](https://github.com/andreasvalen/DAT250/blob/main/resources/imgs/MongoDBDelete.PNG?raw=true)
 
-## Experminet 2
+## Experiment 2
 
 I could not find a workaround for map-reduce being deprecated.
 I tried to downgrade to an older version, but I was unable to get it to work:
@@ -40,5 +41,7 @@ stores the number of times the customer has made an order for more than 50 price
 Best customers:
 
 ![db screenshot](https://github.com/andreasvalen/DAT250/blob/main/resources/imgs/AdditionalOperation.PNG?raw=true)
+
+## Unsolved issues
 
 - Getting map-reduce to run remains unsolved
