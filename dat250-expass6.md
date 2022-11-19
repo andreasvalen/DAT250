@@ -10,7 +10,7 @@ Everything went smooth. I added age as well to test.
 
 ## Experiment 2
 
-I definately noticed the steep learning curve in this experiment.
+I definitely noticed the steep learning curve in this experiment.
 I spent hours resolving the CORS error I got. I eventually solved it by adding a "proxy.conf.json" file and updating the angular.json file.
 
 When making the button click functions the api requests didn't fire no matter what I did. In the end I found a solution where I if added som components that rendered/Observed the response, the request suddenly fired normally for some reason. I hid the components with css and everything "works" now.
